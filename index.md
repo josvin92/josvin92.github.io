@@ -17,7 +17,7 @@ The Major tasks assigned to us are as follows:
 - What has been published about information sharing and inter-sectoral collaboration?
 
 We have four different approaches to our project.
-1. Word2Vec
+1. BERT
 2. Doc2Vec
 3. LDA
 4. TF-IDF
@@ -38,19 +38,41 @@ It contains fields like
 - url	
 - text	
 
-[Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
 
-## ***Our Apporaches***
+
+## ***Our Approaches***
 Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
 
 Approach 2: Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
 
 Approach 3: Using Keras for performing Topic Modeling using LDA.
 
-Approach 4: TF-IDF.
+Approach 4: BERT.
+
+## ***Our Results***
+- What is known about transmission, incubation, and environmental stability?
+BERT answer : 
+- What do we know about COVID-19 risk factors?
+BERT answer : 
+- What do we know about virus genetics, origin, and evolution?
+BERT answer : .
+- What do we know about vaccines and therapeutics?
+BERT answer : 
+- What has been published about medical care?
+BERT answer : 
+- What do we know about non-pharmaceutical interventions?
+BERT answer : .
+- Geographic variations: how the disease will spread and if there are different variations of the virus in different areas?
+BERT answer :
+- What do we know about diagnostics and surveillance?
+BERT answer : 
+- What has been published about ethical and social science considerations?
+BERT answer : .
+- What has been published about information sharing and inter-sectoral collaboration?
+BERT answer :
 
 
-
+[Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
 
 ### Markdown
 
