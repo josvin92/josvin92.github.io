@@ -2,9 +2,8 @@
 
 # <p align = 'center'>COVID-19 Open Research Dataset Challenge (CORD-19) Analysis</p>
 
+<p align = 'center'> <img width="600" img height="200" src = https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg </p>  
 <p align = 'center'> <img width="600" img height="200" src = https://github.com/siddh30/Amazon-Sentiment-Analysis/blob/master/logo.png </p>
-<p align = 'center'> <img width="600" img height="200" src = https://github.com/josvin92/josvin92.github.io/blob/master/cord19.jpg </p>  
-  https://github.com/josvin92/josvin92.github.io
   
 ## ***Project Overview***
 In this project we carry out various Information Retrieval and Machine Learning methods to retrieve articles that are most relevant to the crucial medical questions given to us as tasks.
