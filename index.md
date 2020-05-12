@@ -1,8 +1,46 @@
 ## Welcome to CS525 - Final Project Website
 
-You can use the [editor on GitHub](https://github.com/josvin92/josvin92.github.io./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# <p align = 'center'>Amazon Sentiment Analysis</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align = 'center'> <img width="600" img height="200" src = https://github.com/siddh30/Amazon-Sentiment-Analysis/blob/master/logo.png </p>
+  
+## ***Project Overview***
+In this project we carry out various Information Retrieval and Machine Learning methods to retrieve articles that are most relevant to the crucial medical questions given to us as tasks.
+The Major tasks assigned to us are as follows:
+- What is known about transmission, incubation, and environmental stability?
+- What do we know about COVID-19 risk factors?
+- What do we know about virus genetics, origin, and evolution?
+- What do we know about vaccines and therapeutics?
+- What has been published about medical care?
+- What do we know about non-pharmaceutical interventions?
+- Geographic variations: how the disease will spread and if there are different variations of the virus in different areas?
+- What do we know about diagnostics and surveillance?
+- What has been published about ethical and social science considerations?
+- What has been published about information sharing and inter-sectoral collaboration?
+
+We have four different approaches to our project.
+1. Word2Vec
+2. Doc2Vec
+3. LDA
+4. TF-IDF
+
+## ***Dataset Description***
+COVID-19 Open Research Dataset (CORD-19) has over 47,000 scholarly articles related to COVID-19, SARS-CoV-2, and related coronaviruses.
+It contains fields like 
+
+
+
+## ***Our Apporaches***
+Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
+
+Approach 2: Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
+
+Approach 3: Using Keras for performing Topic Modeling using LDA.
+
+Approach 4: TF-IDF.
+
+
+
 
 ### Markdown
 
