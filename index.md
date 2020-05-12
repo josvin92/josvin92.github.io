@@ -1,7 +1,5 @@
 ## Welcome to CS525 - Final Project Website
 
-<img src="img/corona.png" />
-
 ![Image](img/corona.png)  
 
 ## ***Project Overview***
