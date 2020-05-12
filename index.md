@@ -1,6 +1,6 @@
 ## Welcome to CS525 - Final Project Website
 
-[Image](https://github.com/josvin92/josvin92.github.io/blob/master/small_coronavirus.jpg)  
+![Image](https://github.com/josvin92/josvin92.github.io/blob/master/small_coronavirus.jpg)  
 
 ## ***Project Overview***
 In this project we carry out various Information Retrieval and Machine Learning methods to retrieve articles that are most relevant to the crucial medical questions given to us as tasks.
