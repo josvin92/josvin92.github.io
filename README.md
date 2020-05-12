@@ -78,11 +78,13 @@ For instance:
 
 - [Environmental Engineers and Scientists Have Important Roles to Play in Stemming Outbreaks and Pandemics Caused by Enveloped Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7099656/)
 
-- [Journal Pre-proof Transmission of COVID-19 in the terminal stage of incubation period](https://doi.org/10.1016/j.ijid.2020.03.027)
+- [Journal Pre-proof Transmission of COVID-19 in the terminal stage of incubation period]
+(https://doi.org/10.1016/j.ijid.2020.03.027)
 
 **Task2:** What do we know about COVID-19 risk factors?
 
-- [Association between 2019-nCoV transmission and N95 respirator use](https://doi.org/10.1101/2020.02.18.20021881)
+- [Association between 2019-nCoV transmission and N95 respirator use]
+(https://doi.org/10.1101/2020.02.18.20021881)
 
 **Task3:** What do we know about virus genetics, origin, and evolution?
 
