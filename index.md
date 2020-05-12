@@ -53,6 +53,7 @@ Approach 4: BERT using cdqa.
 ### TF-IDF:Term frequency–inverse document frequency.
 
 **TF (Term Frequency) :** The frequency with which a word appears in the current text, a high-frequency word or an important word (such as "natural language processing") or a common word (such as "I", "Yes", "", etc.) ;
+
 **IDF (Inverse Document frequency) :** Document frequency refers to the proportion of Documents containing a word in the entire corpus. The inverse Document frequency is the reciprocal of the Document frequency;
 
 **Advantages:**
