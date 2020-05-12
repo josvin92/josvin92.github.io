@@ -40,6 +40,7 @@ It contains fields like
 - url	
 - text	
 
+[Link](https://github.com/alicekenway/CS525_finalpj)
 
 ## ***Our Apporaches***
 Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
