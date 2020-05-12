@@ -73,13 +73,14 @@ We assume the description of tasks and the possible answers of that will close t
 So, firstly, we train the model with the 4300 articles, and use the descriptions of tasks to test the model - the model will transfer descriptions into vector, then we find out the most similar articles in the vector space.
 
 For instance:
-Task1:  What is known about transmission, incubation, and environmental stability?
+
+- Task1:  What is known about transmission, incubation, and environmental stability?
 
 [Environmental Engineers and Scientists Have Important Roles to Play in Stemming Outbreaks and Pandemics Caused by Enveloped Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7099656/)
 
 [Journal Pre-proof Transmission of COVID-19 in the terminal stage of incubation period](https://doi.org/10.1016/j.ijid.2020.03.027)
 
-Task3: What do we know about virus genetics, origin, and evolution?
+- Task3: What do we know about virus genetics, origin, and evolution?
 
 [Journal Pre-proof Bat influenza viruses: Making a double agent of MHC class II Bat influenza viruses]
 (https://doi.org/10.1016/j.tim.2020.04.006)
