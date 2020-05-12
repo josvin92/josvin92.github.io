@@ -74,7 +74,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a recent paper
 
 cdQA is to allow anyone to ask a question in natural language and get an answer without having to read the internal documents relevant to the question.Its' goal is to make the internal search experience faster and more natural thanks to the latest advances in natural language processing using deep learning techniques.
 
-i used a prebuilt BERT model from cdqa for my query answering. 
+I used a prebuilt BERT model from cdqa for my query answering. 
 
 ### Results
 
