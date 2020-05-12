@@ -23,8 +23,8 @@ We have four different approaches to our project.
 4. TF-IDF
 
 ## ***Dataset Description***
-COVID-19 Open Research Dataset (CORD-19) has over 47,000 scholarly articles related to COVID-19, SARS-CoV-2, and related coronaviruses.
-It contains fields like 
+COVID-19 Open Research Dataset (CORD-19) has over 47,000 biology and medicine scholarly articles in various language, about 4300 of them are related to COVID-19, SARS-CoV-2, and coronaviruses, in English.
+Original dataset contains fields like 
 - cord_uid	
 - sha	source_x	
 - title	
@@ -37,6 +37,20 @@ It contains fields like
 - full_text_file	
 - url	
 - text	
+
+For our purpose, we only extract some fields in the 4300 related articles
+Fields includes:
+- paper_id
+- title
+- abstract
+- body_text
+- url
+
+The original dataset can be downloaded at
+[Link](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+The dataset we extracted can be downloaded at
+[Link](https://drive.google.com/file/d/11gE-qSoao3sjkhXGevGEEWasgecaN0rG/view?usp=sharing)
 
 
 
