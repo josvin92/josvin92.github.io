@@ -69,7 +69,7 @@ The Doc2vec model is a unsupervised model which transfers docs into vectors, and
 We assume the description of tasks and the possible answers of that will close to each other in the vectpr space.
 So, firstly, we train the model with the 4300 articles, and use the descriptions of tasks to test the model - the model will transfer descriptions into vector, then we find out the most similar articles in the vector space.
 
-For instance:
+### Results
 
 **Task1:**  What is known about transmission, incubation, and environmental stability?
 
@@ -122,29 +122,6 @@ For instance:
 **pro:** doc2vec provides useful articles to answer crucial questions
 
 **cons:** it's a unsupervised model
-
-
-## ***Our Results***
-- What is known about transmission, incubation, and environmental stability?
-BERT answer : 
-- What do we know about COVID-19 risk factors?
-BERT answer : 
-- What do we know about virus genetics, origin, and evolution?
-BERT answer : .
-- What do we know about vaccines and therapeutics?
-BERT answer : 
-- What has been published about medical care?
-BERT answer : 
-- What do we know about non-pharmaceutical interventions?
-BERT answer : .
-- Geographic variations: how the disease will spread and if there are different variations of the virus in different areas?
-BERT answer :
-- What do we know about diagnostics and surveillance?
-BERT answer : 
-- What has been published about ethical and social science considerations?
-BERT answer : .
-- What has been published about information sharing and inter-sectoral collaboration?
-BERT answer :
 
 
 [Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
