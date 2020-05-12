@@ -66,7 +66,7 @@ Approach 3: Using Keras for performing Topic Modeling using LDA.
 
 Approach 4: TF-IDF.
 
-###Doc2vec Model
+### Doc2vec Model
 The Doc2vec model is a unsupervised model which transfers docs into vectors, and docs have similar meaning will close to each other in the vector space.
 
 We assume the description of tasks and the possible answers of that will close to each other in the vectpr space.
