@@ -2,7 +2,7 @@
 
 # <p align = 'center'>COVID-19 Open Research Dataset Challenge (CORD-19) Analysis</p>
 
-<p align = 'center'> <img width="600" img height="400" src = https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg </p>  
+<p align = 'center'> <img width="600" img height="600" src = https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg </p>  
 <p align = 'center'> <img width="600" img height="200" src = https://github.com/siddh30/Amazon-Sentiment-Analysis/blob/master/logo.png </p>
 ![Image](https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg)  
 ## ***Project Overview***
@@ -28,7 +28,18 @@ We have four different approaches to our project.
 ## ***Dataset Description***
 COVID-19 Open Research Dataset (CORD-19) has over 47,000 scholarly articles related to COVID-19, SARS-CoV-2, and related coronaviruses.
 It contains fields like 
-
+- cord_uid	
+- sha	source_x	
+- title	
+- doi	
+- license	
+- abstract	
+- publish_time	
+- authors	
+- journal	
+- full_text_file	
+- url	
+- text	
 
 
 ## ***Our Apporaches***
