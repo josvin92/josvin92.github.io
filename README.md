@@ -110,7 +110,7 @@ For instance:
 
 **Task9:** What has been published about information sharing and inter-sectoral collaboration?
 
--[COVID-19: Vulnerability and the power of privilege in a pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165578/)
+- [COVID-19: Vulnerability and the power of privilege in a pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165578/)
 
 **pro:** doc2vec provides useful articles to answer crucial questions
 
