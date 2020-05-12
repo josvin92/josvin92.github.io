@@ -80,12 +80,46 @@ For instance:
 
 - [Journal Pre-proof Transmission of COVID-19 in the terminal stage of incubation period](https://doi.org/10.1016/j.ijid.2020.03.027)
 
+**Task2:** What do we know about COVID-19 risk factors?
+
+- [Association between 2019-nCoV transmission and N95 respirator use](https://doi.org/10.1101/2020.02.18.20021881)
+
 **Task3:** What do we know about virus genetics, origin, and evolution?
 
 - [Journal Pre-proof Bat influenza viruses: Making a double agent of MHC class II Bat influenza viruses]
 (https://doi.org/10.1016/j.tim.2020.04.006)
 
-**pro:** doc2vec is accruate for large dataset
+**Task4:** What do we know about vaccines and therapeutics? What has been published concerning research and development and evaluation efforts of vaccines and therapeutics?
+
+- [Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7094090/)
+
+**Task5:** What do we know about the effectiveness of non-pharmaceutical interventions? What is known about equity and barriers to compliance for non-pharmaceutical interventions?
+
+- [CAN-NPI: A Curated Open Dataset of Canadian Non-Pharmaceutical Interventions in Response to the Global COVID-19 Pandemic]
+(https://doi.org/10.1101/2020.04.17.20068460)
+
+**Task6:** What do we know about diagnostics and surveillance? What has been published concerning systematic, holistic approach to diagnostics
+
+- [Evaluation of antibody testing for SARS-CoV-2 using ELISA and lateral flow immunoassays]
+(https://doi.org/10.1101/2020.04.15.20066407)
+
+**Task7:** What has been published about medical care?
+
+- [Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the Coronavirus Disease 2019 (COVID-19) Pandemic]
+(https://doi.org/10.1016/j.jacc.2020.03.031)
+
+**Task8:** What has been published about ethical and social science considerations?
+
+- [Supporting Clinicians During the COVID-19 Pandemic]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7106065/)
+
+**Task9:** What has been published about information sharing and inter-sectoral collaboration?
+
+-[COVID-19: Vulnerability and the power of privilege in a pandemic]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165578/)
+
+**pro:** doc2vec provides useful articles to answer crucial questions
 
 **cons:** it's a unsupervised model
 
