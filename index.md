@@ -40,13 +40,47 @@ The dataset we extracted can be downloaded at
 
 
 ## ***Our Approaches***
-Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
+Approach 1: TF-IDF
+Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
 
-Approach 2: Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
+Approach 2: LDA Using Keras for performing Topic Modeling
+Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
 
-Approach 3: Using Keras for performing Topic Modeling using LDA.
+Approach 3: Doc2Vec
 
 Approach 4: BERT using cdqa.
+
+### TF-IDF:Term frequency–inverse document frequency.
+
+**TF (Term Frequency) :** The frequency with which a word appears in the current text, a high-frequency word or an important word (such as "natural language processing") or a common word (such as "I", "Yes", "", etc.) ;
+**IDF (Inverse Document frequency) :** Document frequency refers to the proportion of Documents containing a word in the entire corpus. The inverse Document frequency is the reciprocal of the Document frequency;
+
+**Advantages:**
+- Easy to compute
+- You have some basic metric to extract the most descriptive terms in a document
+- You can easily compute the similarity between 2 documents using it
+
+**Disadvantages:**
+- TF-IDF is based on the bag-of-words (BoW) model, therefore it does not capture position in text, semantics, co-occurrences in different documents, etc.
+- For this reason, TF-IDF is only useful as a lexical level feature
+- Cannot capture semantics (e.g. as compared to topic models, word embeddings)
+
+### LDA Model
+
+LDA is a form of unsupervised learning which views documents as bags of words (ie order does not matter). 
+Latent refers to everything that we don’t know a priori and are hidden in the data. 
+Dirichlet is the distribution of topics in documents and distribution of words in the topic.
+Allocation means that once we have Dirichlet, we will allocate topics to the documents and words of the document to topics.
+
+All topic models are based on the same basic assumption:
+- each document consists of a mixture of topics, and
+- each topic consists of a collection of words.
+
+**Advantages:**
+- LDA is a probabilistic model with interpretable topics. 
+
+**Disadvantages:**
+- The disadvantages are that it is hard to know when LDA is working --- topics are soft-clusters so there is no objective metric to say "this is the best choice" of hyperparameters.
 
 ### Doc2vec Model
 The Doc2vec model is a unsupervised model which transfers docs into vectors, and docs have similar meaning will close to each other in the vector space.
