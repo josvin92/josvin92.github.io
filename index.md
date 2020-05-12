@@ -1,10 +1,9 @@
 ## Welcome to CS525 - Final Project Website
 
-# <p align = 'center'>COVID-19 Open Research Dataset Challenge (CORD-19) Analysis</p>
+# COVID-19 Open Research Dataset Challenge (CORD-19) Analysis
 
-<p align = 'center'> <img width="600" img height="600" src = https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg </p>  
-<p align = 'center'> <img width="600" img height="200" src = https://github.com/siddh30/Amazon-Sentiment-Analysis/blob/master/logo.png </p>
 ![Image](https://github.com/josvin92/josvin92.github.io/blob/master/cord19_2.jpg)  
+
 ## ***Project Overview***
 In this project we carry out various Information Retrieval and Machine Learning methods to retrieve articles that are most relevant to the crucial medical questions given to us as tasks.
 The Major tasks assigned to us are as follows:
