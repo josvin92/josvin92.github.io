@@ -25,26 +25,11 @@ We have four different approaches to our project.
 ## ***Dataset Description***
 COVID-19 Open Research Dataset (CORD-19) has over 47,000 biology and medicine scholarly articles in various language, about 4300 of them are related to COVID-19, SARS-CoV-2, and coronaviruses, in English.
 Original dataset contains fields like 
-- cord_uid	
-- sha	source_x	
-- title	
-- doi	
-- license	
-- abstract	
-- publish_time	
-- authors	
-- journal	
-- full_text_file	
-- url	
-- text	
+- cord_uid, sha	source_x, title	,doi ,license, abstract, publish_time, authors, journal, full_text_file, url, text.
 
 For our purpose, we only extract some fields in the 4300 related articles
 Fields includes:
-- paper_id
-- title
-- abstract
-- body_text
-- url
+- paper_id, title, abstract, body_text, url.
 
 The original dataset can be downloaded at
 [Link](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
