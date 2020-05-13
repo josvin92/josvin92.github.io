@@ -22,6 +22,8 @@ We have four different approaches to our project.
 3. LDA
 4. TF-IDF
 
+[Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
+
 ## ***Dataset Description***
 COVID-19 Open Research Dataset (CORD-19) has over 47,000 biology and medicine scholarly articles in various language, about 4300 of them are related to COVID-19, SARS-CoV-2, and coronaviruses, in English.
 Original dataset contains fields like 
