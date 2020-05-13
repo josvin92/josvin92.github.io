@@ -147,10 +147,10 @@ I used a prebuilt BERT model from cdqa for my query answering.
 - BERT Output: The aim is to support cooperation and coordinated action of EUMS to improve their capacities at points of entry airports ports groundcrossings in preventing and combating crossborder health threats from the transport sector. The action activities include the following a facilitating EU MS evaluating and monitoring of core capacities at PoE b strengthening inter sectoral and cross sectoral collaboration through a communication network c producing catalogues of tested best practices guidelines and validated action plans d providing capacity buildingtraining on tested best practices guidelines validated action plans e facilitating EU MSs coordinating and executing hygiene inspections on conveyances f combatting all types of health threats focusing on infectious disease and vectors g supporting response to possible future public health emergencies of international concern. In future public health emergencies the action will move from interepidemic mode to emergency mode supporting coherent response as per Decision n10822013EU International Health Regulations and WHO temporary recommendations.
 
 ### Conclusion
--We found that the best ones were LDA and Doc2Vec as they returned the related articles, unlike BERT which returns a convolution of the articles.
--The results of the first round were released on April 15th. Most of the winners used LDA, recommender systems and other variations of these. 
--The documents that we got from LDA and Doc2Vec are a subset or a superset of the winning results depending on the parameters we give.
--Also, since it’s unsupervised learning, and no test/validation set is provided we wouldn’t be able to tell anything about the accuracy/precision of the model.
+- We found that the best ones were LDA and Doc2Vec as they returned the related articles, unlike BERT which returns a convolution of the articles.
+- The results of the first round were released on April 15th. Most of the winners used LDA, recommender systems and other variations of these. 
+- The documents that we got from LDA and Doc2Vec are a subset or a superset of the winning results depending on the parameters we give.
+- Also, since it’s unsupervised learning, and no test/validation set is provided we wouldn’t be able to tell anything about the accuracy/precision of the model.
 
 
 [Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
