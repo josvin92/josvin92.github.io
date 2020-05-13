@@ -147,39 +147,11 @@ I used a prebuilt BERT model from cdqa for my query answering.
 - BERT Output: The aim is to support cooperation and coordinated action of EUMS to improve their capacities at points of entry airports ports groundcrossings in preventing and combating crossborder health threats from the transport sector. The action activities include the following a facilitating EU MS evaluating and monitoring of core capacities at PoE b strengthening inter sectoral and cross sectoral collaboration through a communication network c producing catalogues of tested best practices guidelines and validated action plans d providing capacity buildingtraining on tested best practices guidelines validated action plans e facilitating EU MSs coordinating and executing hygiene inspections on conveyances f combatting all types of health threats focusing on infectious disease and vectors g supporting response to possible future public health emergencies of international concern. In future public health emergencies the action will move from interepidemic mode to emergency mode supporting coherent response as per Decision n10822013EU International Health Regulations and WHO temporary recommendations.
 
 ### Conclusion
+-We found that the best ones were LDA and Doc2Vec as they returned the related articles, unlike BERT which returns a convolution of the articles.
+-The results of the first round were released on April 15th. Most of the winners used LDA, recommender systems and other variations of these. 
+-The documents that we got from LDA and Doc2Vec are a subset or a superset of the winning results depending on the parameters we give.
+-Also, since it’s unsupervised learning, and no test/validation set is provided we wouldn’t be able to tell anything about the accuracy/precision of the model.
 
 
 [Link to the repository containing our project files](https://github.com/alicekenway/CS525_finalpj)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-![Image](https://github.com/josvin92/josvin92.github.io/blob/master/small_coronavirus.png)  
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josvin92/josvin92.github.io./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
