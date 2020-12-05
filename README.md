@@ -8,7 +8,7 @@
 
 ![Image](img/corona.png)    
 
-## Table of Contents
+## ***Table of Contents***
 
 * [Project Overview](#Project-Overview)
 * [Dataset Description](#Dataset-Description)  
