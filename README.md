@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
+* [Project Overview](#Project-Overview)
 * [Dataset Description](#Dataset-Description)  
 * [Our Apporaches](#Our-Apporaches)
-* [TF-IDF(Term Frequency – Inverse Document Frequency)](#TF-IDF---Term-Frequency-–-Inverse-Document-Frequency)
-* [LDA Model](#LDA Model)
+* [TF-IDF(Term Frequency – Inverse Document Frequency)](#TF-IDF-Term-Frequency-Inverse-Document-Frequency)
+* [LDA Model](#LDA-Model)
 * [Doc2vec Model](#Doc2vec-Model)
-* [BERT Model](#BERT Model)
+* [BERT Model](#BERT-Model)
 * [Results](#Results)
 * [Conclusion](#Conclusion)
 * [License](#license)
