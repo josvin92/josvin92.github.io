@@ -1,5 +1,3 @@
-## Welcome to CS525 - Final Project Website
-
 # COVID-19 Open Research Dataset Challenge (CORD-19) Analysis
 
 ![Image](img/corona.png)    
