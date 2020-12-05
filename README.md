@@ -1,6 +1,27 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![license][license-shield]][license-url]
+
 # COVID-19 Open Research Dataset Challenge (CORD-19) Analysis
 
 ![Image](img/corona.png)    
+
+## Table of Contents
+
+* [Project Overview](#Project Overview)
+* [Dataset Description](#Dataset-Description)  
+* [Our Apporaches](#Our-Apporaches)
+* [Doc2vec Model](#Doc2vec-Model)
+* [License](#license)
+
+* [Questions or Tasks](#Questions-or-Tasks)
+* [Ideas for interaction](#Ideas-for-interaction)
+* [Schedule of Deliverables](#schedule-of-deliverables)
+* [Portfolio Video](#Portfolio-Video)
+* [Future Work](#Future-Work)
+
 
 ## ***Project Overview***
 In this project we carry out various Information Retrieval and Machine Learning methods to retrieve articles that are most relevant to the crucial medical questions given to us as tasks.
@@ -122,3 +143,25 @@ For instance:
 **pro:** doc2vec provides useful articles to answer crucial questions
 
 **cons:** it's a unsupervised model
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/josvinjohn/COVID-19-Open-Research-Dataset-Challenge/blob/master/LICENSE) for more information.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/josvinjohn/COVID-19-Open-Research-Dataset-Challenge
+[contributors-url]: https://github.com/josvinjohn/COVID-19-Open-Research-Dataset-Challenge/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/josvinjohn/COVID-19-Open-Research-Dataset-Challenge
+[forks-url]: https://github.com/josvinjohn/COVID-19-Open-Research-Dataset-Challenge/network/members
+
+[issues-shield]: https://img.shields.io/github/issues/josvinjohn/COVID-19-Open-Research-Dataset-Challenge
+[issues-url]: https://github.com/josvinjohn/COVID-19-Open-Research-Dataset-Challenge/issues
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/josvin-john/
+
+[license-shield]: https://img.shields.io/github/license/josvinjohn/COVID-19-Open-Research-Dataset-Challenge.svg?style=flat-square
+[license-url]: https://github.com/josvinjohn/COVID-19-Open-Research-Dataset-Challenge/blob/master/LICENSE
