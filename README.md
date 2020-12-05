@@ -12,8 +12,8 @@
 
 * [Project Overview](#Project-Overview)
 * [Dataset Description](#Dataset-Description)  
-* [Our Apporaches](#Our-Apporaches)
-* [TF-IDF(Term Frequency – Inverse Document Frequency)](#TF-IDF-Term-Frequency-Inverse-Document-Frequency)
+* [Our Approaches](#Our-Approaches)
+* [TF-IDF(Term Frequency – Inverse Document Frequency)](#TF-IDF(Term-Frequency–Inverse-Document-Frequency))
 * [LDA Model](#LDA-Model)
 * [Doc2vec Model](#Doc2vec-Model)
 * [BERT Model](#BERT-Model)
@@ -71,7 +71,7 @@ Approach 3: Doc2Vec
 
 Approach 4: BERT using cdqa.
 
-### TF-IDF - Term Frequency – Inverse Document Frequency
+### TF-IDF(Term Frequency – Inverse Document Frequency)
 
 **TF (Term Frequency) :** The frequency with which a word appears in the current text, a high-frequency word or an important word (such as "natural language processing") or a common word (such as "I", "Yes", "", etc.) ;
 
