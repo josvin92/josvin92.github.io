@@ -117,7 +117,7 @@ cdQA is to allow anyone to ask a question in natural language and get an answer 
 
 I used a prebuilt BERT model from cdqa for my query answering. 
 
-## Results
+## ***Results***
 
 **Task1:**  What is known about transmission, incubation, and environmental stability?
 
@@ -213,7 +213,7 @@ I used a prebuilt BERT model from cdqa for my query answering.
 
 - TF-IDF Output: TAXONOMY, CLASSIFICATION AND NOMENCLATURE OF VIRUSES.
 
-## Conclusion
+## ***Conclusion***
 - We found that the best ones were LDA and Doc2Vec as they returned the related articles, unlike BERT which returns a convolution of the articles.
 - The results of the first round were released on April 15th. Most of the winners used LDA, recommender systems and other variations of these. 
 - The documents that we got from LDA and Doc2Vec are a subset or a superset of the winning results depending on the parameters we give.
